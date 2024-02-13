@@ -1,0 +1,41 @@
+Origin,Destination,Mode of Transportation,Distance btw,Route ID
+United States,China,Sea,2898,1
+China,United States,Sea,2898,2
+United States,India,Sea,3401,3
+India,United States,Sea,3401,4
+United States,Brazil,Sea,3220,5
+Brazil,United States,Sea,3220,6
+United States,Russia,Sea,3677,7
+Russia,United States,Sea,3677,8
+China,India,Sea,737,9
+India,China,Sea,737,10
+China,Brazil,Sea,1688,11
+Brazil,China,Sea,1688,12
+China,Russia,Sea,3535,13
+Russia,China,Sea,3535,14
+India,Brazil,Sea,2326,15
+Brazil,India,Sea,2326,16
+India,Russia,Sea,3586,17
+Russia,India,Sea,3586,18
+Brazil,Russia,Sea,1063,19
+Russia,Brazil,Sea,1063,20
+United States,China,Air,2898,21
+China,United States,Air,2898,22
+United States,India,Air,3401,23
+India,United States,Air,3401,24
+United States,Brazil,Air,3220,25
+Brazil,United States,Air,3220,26
+United States,Russia,Air,3677,27
+Russia,United States,Air,3677,28
+China,India,Air,737,29
+India,China,Air,737,30
+China,Brazil,Air,1688,31
+Brazil,China,Air,1688,32
+China,Russia,Air,3535,33
+Russia,China,Air,3535,34
+India,Brazil,Air,2326,35
+Brazil,India,Air,2326,36
+India,Russia,Air,3586,37
+Russia,India,Air,3586,38
+Brazil,Russia,Air,1063,39
+Russia,Brazil,Air,1063,40

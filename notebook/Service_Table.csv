@@ -1,0 +1,1201 @@
+Route ID,Company Name,Company ID,Service Level,Cost per km ($)
+1,com1,1,First_Class,0.15
+1,com1,1,Business Class,0.1
+1,com1,1,Economy Class,0.8
+1,com2,2,First_Class,0.15
+1,com2,2,Business Class,0.1
+1,com2,2,Economy Class,0.8
+1,com3,3,First_Class,0.15
+1,com3,3,Business Class,0.1
+1,com3,3,Economy Class,0.8
+1,com4,4,First_Class,0.15
+1,com4,4,Business Class,0.1
+1,com4,4,Economy Class,0.8
+1,com5,5,First_Class,0.15
+1,com5,5,Business Class,0.1
+1,com5,5,Economy Class,0.8
+1,com6,6,First_Class,0.15
+1,com6,6,Business Class,0.1
+1,com6,6,Economy Class,0.8
+1,com7,7,First_Class,0.15
+1,com7,7,Business Class,0.1
+1,com7,7,Economy Class,0.8
+1,com8,8,First_Class,0.15
+1,com8,8,Business Class,0.1
+1,com8,8,Economy Class,0.8
+1,com9,9,First_Class,0.15
+1,com9,9,Business Class,0.1
+1,com9,9,Economy Class,0.8
+1,com10,10,First_Class,0.15
+1,com10,10,Business Class,0.1
+1,com10,10,Economy Class,0.8
+2,com1,1,First_Class,0.15
+2,com1,1,Business Class,0.1
+2,com1,1,Economy Class,0.8
+2,com2,2,First_Class,0.15
+2,com2,2,Business Class,0.1
+2,com2,2,Economy Class,0.8
+2,com3,3,First_Class,0.15
+2,com3,3,Business Class,0.1
+2,com3,3,Economy Class,0.8
+2,com4,4,First_Class,0.15
+2,com4,4,Business Class,0.1
+2,com4,4,Economy Class,0.8
+2,com5,5,First_Class,0.15
+2,com5,5,Business Class,0.1
+2,com5,5,Economy Class,0.8
+2,com6,6,First_Class,0.15
+2,com6,6,Business Class,0.1
+2,com6,6,Economy Class,0.8
+2,com7,7,First_Class,0.15
+2,com7,7,Business Class,0.1
+2,com7,7,Economy Class,0.8
+2,com8,8,First_Class,0.15
+2,com8,8,Business Class,0.1
+2,com8,8,Economy Class,0.8
+2,com9,9,First_Class,0.15
+2,com9,9,Business Class,0.1
+2,com9,9,Economy Class,0.8
+2,com10,10,First_Class,0.15
+2,com10,10,Business Class,0.1
+2,com10,10,Economy Class,0.8
+3,com1,1,First_Class,0.15
+3,com1,1,Business Class,0.1
+3,com1,1,Economy Class,0.8
+3,com2,2,First_Class,0.15
+3,com2,2,Business Class,0.1
+3,com2,2,Economy Class,0.8
+3,com3,3,First_Class,0.15
+3,com3,3,Business Class,0.1
+3,com3,3,Economy Class,0.8
+3,com4,4,First_Class,0.15
+3,com4,4,Business Class,0.1
+3,com4,4,Economy Class,0.8
+3,com5,5,First_Class,0.15
+3,com5,5,Business Class,0.1
+3,com5,5,Economy Class,0.8
+3,com6,6,First_Class,0.15
+3,com6,6,Business Class,0.1
+3,com6,6,Economy Class,0.8
+3,com7,7,First_Class,0.15
+3,com7,7,Business Class,0.1
+3,com7,7,Economy Class,0.8
+3,com8,8,First_Class,0.15
+3,com8,8,Business Class,0.1
+3,com8,8,Economy Class,0.8
+3,com9,9,First_Class,0.15
+3,com9,9,Business Class,0.1
+3,com9,9,Economy Class,0.8
+3,com10,10,First_Class,0.15
+3,com10,10,Business Class,0.1
+3,com10,10,Economy Class,0.8
+4,com1,1,First_Class,0.15
+4,com1,1,Business Class,0.1
+4,com1,1,Economy Class,0.8
+4,com2,2,First_Class,0.15
+4,com2,2,Business Class,0.1
+4,com2,2,Economy Class,0.8
+4,com3,3,First_Class,0.15
+4,com3,3,Business Class,0.1
+4,com3,3,Economy Class,0.8
+4,com4,4,First_Class,0.15
+4,com4,4,Business Class,0.1
+4,com4,4,Economy Class,0.8
+4,com5,5,First_Class,0.15
+4,com5,5,Business Class,0.1
+4,com5,5,Economy Class,0.8
+4,com6,6,First_Class,0.15
+4,com6,6,Business Class,0.1
+4,com6,6,Economy Class,0.8
+4,com7,7,First_Class,0.15
+4,com7,7,Business Class,0.1
+4,com7,7,Economy Class,0.8
+4,com8,8,First_Class,0.15
+4,com8,8,Business Class,0.1
+4,com8,8,Economy Class,0.8
+4,com9,9,First_Class,0.15
+4,com9,9,Business Class,0.1
+4,com9,9,Economy Class,0.8
+4,com10,10,First_Class,0.15
+4,com10,10,Business Class,0.1
+4,com10,10,Economy Class,0.8
+5,com1,1,First_Class,0.15
+5,com1,1,Business Class,0.1
+5,com1,1,Economy Class,0.8
+5,com2,2,First_Class,0.15
+5,com2,2,Business Class,0.1
+5,com2,2,Economy Class,0.8
+5,com3,3,First_Class,0.15
+5,com3,3,Business Class,0.1
+5,com3,3,Economy Class,0.8
+5,com4,4,First_Class,0.15
+5,com4,4,Business Class,0.1
+5,com4,4,Economy Class,0.8
+5,com5,5,First_Class,0.15
+5,com5,5,Business Class,0.1
+5,com5,5,Economy Class,0.8
+5,com6,6,First_Class,0.15
+5,com6,6,Business Class,0.1
+5,com6,6,Economy Class,0.8
+5,com7,7,First_Class,0.15
+5,com7,7,Business Class,0.1
+5,com7,7,Economy Class,0.8
+5,com8,8,First_Class,0.15
+5,com8,8,Business Class,0.1
+5,com8,8,Economy Class,0.8
+5,com9,9,First_Class,0.15
+5,com9,9,Business Class,0.1
+5,com9,9,Economy Class,0.8
+5,com10,10,First_Class,0.15
+5,com10,10,Business Class,0.1
+5,com10,10,Economy Class,0.8
+6,com1,1,First_Class,0.15
+6,com1,1,Business Class,0.1
+6,com1,1,Economy Class,0.8
+6,com2,2,First_Class,0.15
+6,com2,2,Business Class,0.1
+6,com2,2,Economy Class,0.8
+6,com3,3,First_Class,0.15
+6,com3,3,Business Class,0.1
+6,com3,3,Economy Class,0.8
+6,com4,4,First_Class,0.15
+6,com4,4,Business Class,0.1
+6,com4,4,Economy Class,0.8
+6,com5,5,First_Class,0.15
+6,com5,5,Business Class,0.1
+6,com5,5,Economy Class,0.8
+6,com6,6,First_Class,0.15
+6,com6,6,Business Class,0.1
+6,com6,6,Economy Class,0.8
+6,com7,7,First_Class,0.15
+6,com7,7,Business Class,0.1
+6,com7,7,Economy Class,0.8
+6,com8,8,First_Class,0.15
+6,com8,8,Business Class,0.1
+6,com8,8,Economy Class,0.8
+6,com9,9,First_Class,0.15
+6,com9,9,Business Class,0.1
+6,com9,9,Economy Class,0.8
+6,com10,10,First_Class,0.15
+6,com10,10,Business Class,0.1
+6,com10,10,Economy Class,0.8
+7,com1,1,First_Class,0.15
+7,com1,1,Business Class,0.1
+7,com1,1,Economy Class,0.8
+7,com2,2,First_Class,0.15
+7,com2,2,Business Class,0.1
+7,com2,2,Economy Class,0.8
+7,com3,3,First_Class,0.15
+7,com3,3,Business Class,0.1
+7,com3,3,Economy Class,0.8
+7,com4,4,First_Class,0.15
+7,com4,4,Business Class,0.1
+7,com4,4,Economy Class,0.8
+7,com5,5,First_Class,0.15
+7,com5,5,Business Class,0.1
+7,com5,5,Economy Class,0.8
+7,com6,6,First_Class,0.15
+7,com6,6,Business Class,0.1
+7,com6,6,Economy Class,0.8
+7,com7,7,First_Class,0.15
+7,com7,7,Business Class,0.1
+7,com7,7,Economy Class,0.8
+7,com8,8,First_Class,0.15
+7,com8,8,Business Class,0.1
+7,com8,8,Economy Class,0.8
+7,com9,9,First_Class,0.15
+7,com9,9,Business Class,0.1
+7,com9,9,Economy Class,0.8
+7,com10,10,First_Class,0.15
+7,com10,10,Business Class,0.1
+7,com10,10,Economy Class,0.8
+8,com1,1,First_Class,0.15
+8,com1,1,Business Class,0.1
+8,com1,1,Economy Class,0.8
+8,com2,2,First_Class,0.15
+8,com2,2,Business Class,0.1
+8,com2,2,Economy Class,0.8
+8,com3,3,First_Class,0.15
+8,com3,3,Business Class,0.1
+8,com3,3,Economy Class,0.8
+8,com4,4,First_Class,0.15
+8,com4,4,Business Class,0.1
+8,com4,4,Economy Class,0.8
+8,com5,5,First_Class,0.15
+8,com5,5,Business Class,0.1
+8,com5,5,Economy Class,0.8
+8,com6,6,First_Class,0.15
+8,com6,6,Business Class,0.1
+8,com6,6,Economy Class,0.8
+8,com7,7,First_Class,0.15
+8,com7,7,Business Class,0.1
+8,com7,7,Economy Class,0.8
+8,com8,8,First_Class,0.15
+8,com8,8,Business Class,0.1
+8,com8,8,Economy Class,0.8
+8,com9,9,First_Class,0.15
+8,com9,9,Business Class,0.1
+8,com9,9,Economy Class,0.8
+8,com10,10,First_Class,0.15
+8,com10,10,Business Class,0.1
+8,com10,10,Economy Class,0.8
+9,com1,1,First_Class,0.15
+9,com1,1,Business Class,0.1
+9,com1,1,Economy Class,0.8
+9,com2,2,First_Class,0.15
+9,com2,2,Business Class,0.1
+9,com2,2,Economy Class,0.8
+9,com3,3,First_Class,0.15
+9,com3,3,Business Class,0.1
+9,com3,3,Economy Class,0.8
+9,com4,4,First_Class,0.15
+9,com4,4,Business Class,0.1
+9,com4,4,Economy Class,0.8
+9,com5,5,First_Class,0.15
+9,com5,5,Business Class,0.1
+9,com5,5,Economy Class,0.8
+9,com6,6,First_Class,0.15
+9,com6,6,Business Class,0.1
+9,com6,6,Economy Class,0.8
+9,com7,7,First_Class,0.15
+9,com7,7,Business Class,0.1
+9,com7,7,Economy Class,0.8
+9,com8,8,First_Class,0.15
+9,com8,8,Business Class,0.1
+9,com8,8,Economy Class,0.8
+9,com9,9,First_Class,0.15
+9,com9,9,Business Class,0.1
+9,com9,9,Economy Class,0.8
+9,com10,10,First_Class,0.15
+9,com10,10,Business Class,0.1
+9,com10,10,Economy Class,0.8
+10,com1,1,First_Class,0.15
+10,com1,1,Business Class,0.1
+10,com1,1,Economy Class,0.8
+10,com2,2,First_Class,0.15
+10,com2,2,Business Class,0.1
+10,com2,2,Economy Class,0.8
+10,com3,3,First_Class,0.15
+10,com3,3,Business Class,0.1
+10,com3,3,Economy Class,0.8
+10,com4,4,First_Class,0.15
+10,com4,4,Business Class,0.1
+10,com4,4,Economy Class,0.8
+10,com5,5,First_Class,0.15
+10,com5,5,Business Class,0.1
+10,com5,5,Economy Class,0.8
+10,com6,6,First_Class,0.15
+10,com6,6,Business Class,0.1
+10,com6,6,Economy Class,0.8
+10,com7,7,First_Class,0.15
+10,com7,7,Business Class,0.1
+10,com7,7,Economy Class,0.8
+10,com8,8,First_Class,0.15
+10,com8,8,Business Class,0.1
+10,com8,8,Economy Class,0.8
+10,com9,9,First_Class,0.15
+10,com9,9,Business Class,0.1
+10,com9,9,Economy Class,0.8
+10,com10,10,First_Class,0.15
+10,com10,10,Business Class,0.1
+10,com10,10,Economy Class,0.8
+11,com1,1,First_Class,0.15
+11,com1,1,Business Class,0.1
+11,com1,1,Economy Class,0.8
+11,com2,2,First_Class,0.15
+11,com2,2,Business Class,0.1
+11,com2,2,Economy Class,0.8
+11,com3,3,First_Class,0.15
+11,com3,3,Business Class,0.1
+11,com3,3,Economy Class,0.8
+11,com4,4,First_Class,0.15
+11,com4,4,Business Class,0.1
+11,com4,4,Economy Class,0.8
+11,com5,5,First_Class,0.15
+11,com5,5,Business Class,0.1
+11,com5,5,Economy Class,0.8
+11,com6,6,First_Class,0.15
+11,com6,6,Business Class,0.1
+11,com6,6,Economy Class,0.8
+11,com7,7,First_Class,0.15
+11,com7,7,Business Class,0.1
+11,com7,7,Economy Class,0.8
+11,com8,8,First_Class,0.15
+11,com8,8,Business Class,0.1
+11,com8,8,Economy Class,0.8
+11,com9,9,First_Class,0.15
+11,com9,9,Business Class,0.1
+11,com9,9,Economy Class,0.8
+11,com10,10,First_Class,0.15
+11,com10,10,Business Class,0.1
+11,com10,10,Economy Class,0.8
+12,com1,1,First_Class,0.15
+12,com1,1,Business Class,0.1
+12,com1,1,Economy Class,0.8
+12,com2,2,First_Class,0.15
+12,com2,2,Business Class,0.1
+12,com2,2,Economy Class,0.8
+12,com3,3,First_Class,0.15
+12,com3,3,Business Class,0.1
+12,com3,3,Economy Class,0.8
+12,com4,4,First_Class,0.15
+12,com4,4,Business Class,0.1
+12,com4,4,Economy Class,0.8
+12,com5,5,First_Class,0.15
+12,com5,5,Business Class,0.1
+12,com5,5,Economy Class,0.8
+12,com6,6,First_Class,0.15
+12,com6,6,Business Class,0.1
+12,com6,6,Economy Class,0.8
+12,com7,7,First_Class,0.15
+12,com7,7,Business Class,0.1
+12,com7,7,Economy Class,0.8
+12,com8,8,First_Class,0.15
+12,com8,8,Business Class,0.1
+12,com8,8,Economy Class,0.8
+12,com9,9,First_Class,0.15
+12,com9,9,Business Class,0.1
+12,com9,9,Economy Class,0.8
+12,com10,10,First_Class,0.15
+12,com10,10,Business Class,0.1
+12,com10,10,Economy Class,0.8
+13,com1,1,First_Class,0.15
+13,com1,1,Business Class,0.1
+13,com1,1,Economy Class,0.8
+13,com2,2,First_Class,0.15
+13,com2,2,Business Class,0.1
+13,com2,2,Economy Class,0.8
+13,com3,3,First_Class,0.15
+13,com3,3,Business Class,0.1
+13,com3,3,Economy Class,0.8
+13,com4,4,First_Class,0.15
+13,com4,4,Business Class,0.1
+13,com4,4,Economy Class,0.8
+13,com5,5,First_Class,0.15
+13,com5,5,Business Class,0.1
+13,com5,5,Economy Class,0.8
+13,com6,6,First_Class,0.15
+13,com6,6,Business Class,0.1
+13,com6,6,Economy Class,0.8
+13,com7,7,First_Class,0.15
+13,com7,7,Business Class,0.1
+13,com7,7,Economy Class,0.8
+13,com8,8,First_Class,0.15
+13,com8,8,Business Class,0.1
+13,com8,8,Economy Class,0.8
+13,com9,9,First_Class,0.15
+13,com9,9,Business Class,0.1
+13,com9,9,Economy Class,0.8
+13,com10,10,First_Class,0.15
+13,com10,10,Business Class,0.1
+13,com10,10,Economy Class,0.8
+14,com1,1,First_Class,0.15
+14,com1,1,Business Class,0.1
+14,com1,1,Economy Class,0.8
+14,com2,2,First_Class,0.15
+14,com2,2,Business Class,0.1
+14,com2,2,Economy Class,0.8
+14,com3,3,First_Class,0.15
+14,com3,3,Business Class,0.1
+14,com3,3,Economy Class,0.8
+14,com4,4,First_Class,0.15
+14,com4,4,Business Class,0.1
+14,com4,4,Economy Class,0.8
+14,com5,5,First_Class,0.15
+14,com5,5,Business Class,0.1
+14,com5,5,Economy Class,0.8
+14,com6,6,First_Class,0.15
+14,com6,6,Business Class,0.1
+14,com6,6,Economy Class,0.8
+14,com7,7,First_Class,0.15
+14,com7,7,Business Class,0.1
+14,com7,7,Economy Class,0.8
+14,com8,8,First_Class,0.15
+14,com8,8,Business Class,0.1
+14,com8,8,Economy Class,0.8
+14,com9,9,First_Class,0.15
+14,com9,9,Business Class,0.1
+14,com9,9,Economy Class,0.8
+14,com10,10,First_Class,0.15
+14,com10,10,Business Class,0.1
+14,com10,10,Economy Class,0.8
+15,com1,1,First_Class,0.15
+15,com1,1,Business Class,0.1
+15,com1,1,Economy Class,0.8
+15,com2,2,First_Class,0.15
+15,com2,2,Business Class,0.1
+15,com2,2,Economy Class,0.8
+15,com3,3,First_Class,0.15
+15,com3,3,Business Class,0.1
+15,com3,3,Economy Class,0.8
+15,com4,4,First_Class,0.15
+15,com4,4,Business Class,0.1
+15,com4,4,Economy Class,0.8
+15,com5,5,First_Class,0.15
+15,com5,5,Business Class,0.1
+15,com5,5,Economy Class,0.8
+15,com6,6,First_Class,0.15
+15,com6,6,Business Class,0.1
+15,com6,6,Economy Class,0.8
+15,com7,7,First_Class,0.15
+15,com7,7,Business Class,0.1
+15,com7,7,Economy Class,0.8
+15,com8,8,First_Class,0.15
+15,com8,8,Business Class,0.1
+15,com8,8,Economy Class,0.8
+15,com9,9,First_Class,0.15
+15,com9,9,Business Class,0.1
+15,com9,9,Economy Class,0.8
+15,com10,10,First_Class,0.15
+15,com10,10,Business Class,0.1
+15,com10,10,Economy Class,0.8
+16,com1,1,First_Class,0.15
+16,com1,1,Business Class,0.1
+16,com1,1,Economy Class,0.8
+16,com2,2,First_Class,0.15
+16,com2,2,Business Class,0.1
+16,com2,2,Economy Class,0.8
+16,com3,3,First_Class,0.15
+16,com3,3,Business Class,0.1
+16,com3,3,Economy Class,0.8
+16,com4,4,First_Class,0.15
+16,com4,4,Business Class,0.1
+16,com4,4,Economy Class,0.8
+16,com5,5,First_Class,0.15
+16,com5,5,Business Class,0.1
+16,com5,5,Economy Class,0.8
+16,com6,6,First_Class,0.15
+16,com6,6,Business Class,0.1
+16,com6,6,Economy Class,0.8
+16,com7,7,First_Class,0.15
+16,com7,7,Business Class,0.1
+16,com7,7,Economy Class,0.8
+16,com8,8,First_Class,0.15
+16,com8,8,Business Class,0.1
+16,com8,8,Economy Class,0.8
+16,com9,9,First_Class,0.15
+16,com9,9,Business Class,0.1
+16,com9,9,Economy Class,0.8
+16,com10,10,First_Class,0.15
+16,com10,10,Business Class,0.1
+16,com10,10,Economy Class,0.8
+17,com1,1,First_Class,0.15
+17,com1,1,Business Class,0.1
+17,com1,1,Economy Class,0.8
+17,com2,2,First_Class,0.15
+17,com2,2,Business Class,0.1
+17,com2,2,Economy Class,0.8
+17,com3,3,First_Class,0.15
+17,com3,3,Business Class,0.1
+17,com3,3,Economy Class,0.8
+17,com4,4,First_Class,0.15
+17,com4,4,Business Class,0.1
+17,com4,4,Economy Class,0.8
+17,com5,5,First_Class,0.15
+17,com5,5,Business Class,0.1
+17,com5,5,Economy Class,0.8
+17,com6,6,First_Class,0.15
+17,com6,6,Business Class,0.1
+17,com6,6,Economy Class,0.8
+17,com7,7,First_Class,0.15
+17,com7,7,Business Class,0.1
+17,com7,7,Economy Class,0.8
+17,com8,8,First_Class,0.15
+17,com8,8,Business Class,0.1
+17,com8,8,Economy Class,0.8
+17,com9,9,First_Class,0.15
+17,com9,9,Business Class,0.1
+17,com9,9,Economy Class,0.8
+17,com10,10,First_Class,0.15
+17,com10,10,Business Class,0.1
+17,com10,10,Economy Class,0.8
+18,com1,1,First_Class,0.15
+18,com1,1,Business Class,0.1
+18,com1,1,Economy Class,0.8
+18,com2,2,First_Class,0.15
+18,com2,2,Business Class,0.1
+18,com2,2,Economy Class,0.8
+18,com3,3,First_Class,0.15
+18,com3,3,Business Class,0.1
+18,com3,3,Economy Class,0.8
+18,com4,4,First_Class,0.15
+18,com4,4,Business Class,0.1
+18,com4,4,Economy Class,0.8
+18,com5,5,First_Class,0.15
+18,com5,5,Business Class,0.1
+18,com5,5,Economy Class,0.8
+18,com6,6,First_Class,0.15
+18,com6,6,Business Class,0.1
+18,com6,6,Economy Class,0.8
+18,com7,7,First_Class,0.15
+18,com7,7,Business Class,0.1
+18,com7,7,Economy Class,0.8
+18,com8,8,First_Class,0.15
+18,com8,8,Business Class,0.1
+18,com8,8,Economy Class,0.8
+18,com9,9,First_Class,0.15
+18,com9,9,Business Class,0.1
+18,com9,9,Economy Class,0.8
+18,com10,10,First_Class,0.15
+18,com10,10,Business Class,0.1
+18,com10,10,Economy Class,0.8
+19,com1,1,First_Class,0.15
+19,com1,1,Business Class,0.1
+19,com1,1,Economy Class,0.8
+19,com2,2,First_Class,0.15
+19,com2,2,Business Class,0.1
+19,com2,2,Economy Class,0.8
+19,com3,3,First_Class,0.15
+19,com3,3,Business Class,0.1
+19,com3,3,Economy Class,0.8
+19,com4,4,First_Class,0.15
+19,com4,4,Business Class,0.1
+19,com4,4,Economy Class,0.8
+19,com5,5,First_Class,0.15
+19,com5,5,Business Class,0.1
+19,com5,5,Economy Class,0.8
+19,com6,6,First_Class,0.15
+19,com6,6,Business Class,0.1
+19,com6,6,Economy Class,0.8
+19,com7,7,First_Class,0.15
+19,com7,7,Business Class,0.1
+19,com7,7,Economy Class,0.8
+19,com8,8,First_Class,0.15
+19,com8,8,Business Class,0.1
+19,com8,8,Economy Class,0.8
+19,com9,9,First_Class,0.15
+19,com9,9,Business Class,0.1
+19,com9,9,Economy Class,0.8
+19,com10,10,First_Class,0.15
+19,com10,10,Business Class,0.1
+19,com10,10,Economy Class,0.8
+20,com1,1,First_Class,0.15
+20,com1,1,Business Class,0.1
+20,com1,1,Economy Class,0.8
+20,com2,2,First_Class,0.15
+20,com2,2,Business Class,0.1
+20,com2,2,Economy Class,0.8
+20,com3,3,First_Class,0.15
+20,com3,3,Business Class,0.1
+20,com3,3,Economy Class,0.8
+20,com4,4,First_Class,0.15
+20,com4,4,Business Class,0.1
+20,com4,4,Economy Class,0.8
+20,com5,5,First_Class,0.15
+20,com5,5,Business Class,0.1
+20,com5,5,Economy Class,0.8
+20,com6,6,First_Class,0.15
+20,com6,6,Business Class,0.1
+20,com6,6,Economy Class,0.8
+20,com7,7,First_Class,0.15
+20,com7,7,Business Class,0.1
+20,com7,7,Economy Class,0.8
+20,com8,8,First_Class,0.15
+20,com8,8,Business Class,0.1
+20,com8,8,Economy Class,0.8
+20,com9,9,First_Class,0.15
+20,com9,9,Business Class,0.1
+20,com9,9,Economy Class,0.8
+20,com10,10,First_Class,0.15
+20,com10,10,Business Class,0.1
+20,com10,10,Economy Class,0.8
+21,com1,1,First_Class,0.15
+21,com1,1,Business Class,0.1
+21,com1,1,Economy Class,0.8
+21,com2,2,First_Class,0.15
+21,com2,2,Business Class,0.1
+21,com2,2,Economy Class,0.8
+21,com3,3,First_Class,0.15
+21,com3,3,Business Class,0.1
+21,com3,3,Economy Class,0.8
+21,com4,4,First_Class,0.15
+21,com4,4,Business Class,0.1
+21,com4,4,Economy Class,0.8
+21,com5,5,First_Class,0.15
+21,com5,5,Business Class,0.1
+21,com5,5,Economy Class,0.8
+21,com6,6,First_Class,0.15
+21,com6,6,Business Class,0.1
+21,com6,6,Economy Class,0.8
+21,com7,7,First_Class,0.15
+21,com7,7,Business Class,0.1
+21,com7,7,Economy Class,0.8
+21,com8,8,First_Class,0.15
+21,com8,8,Business Class,0.1
+21,com8,8,Economy Class,0.8
+21,com9,9,First_Class,0.15
+21,com9,9,Business Class,0.1
+21,com9,9,Economy Class,0.8
+21,com10,10,First_Class,0.15
+21,com10,10,Business Class,0.1
+21,com10,10,Economy Class,0.8
+22,com1,1,First_Class,0.15
+22,com1,1,Business Class,0.1
+22,com1,1,Economy Class,0.8
+22,com2,2,First_Class,0.15
+22,com2,2,Business Class,0.1
+22,com2,2,Economy Class,0.8
+22,com3,3,First_Class,0.15
+22,com3,3,Business Class,0.1
+22,com3,3,Economy Class,0.8
+22,com4,4,First_Class,0.15
+22,com4,4,Business Class,0.1
+22,com4,4,Economy Class,0.8
+22,com5,5,First_Class,0.15
+22,com5,5,Business Class,0.1
+22,com5,5,Economy Class,0.8
+22,com6,6,First_Class,0.15
+22,com6,6,Business Class,0.1
+22,com6,6,Economy Class,0.8
+22,com7,7,First_Class,0.15
+22,com7,7,Business Class,0.1
+22,com7,7,Economy Class,0.8
+22,com8,8,First_Class,0.15
+22,com8,8,Business Class,0.1
+22,com8,8,Economy Class,0.8
+22,com9,9,First_Class,0.15
+22,com9,9,Business Class,0.1
+22,com9,9,Economy Class,0.8
+22,com10,10,First_Class,0.15
+22,com10,10,Business Class,0.1
+22,com10,10,Economy Class,0.8
+23,com1,1,First_Class,0.15
+23,com1,1,Business Class,0.1
+23,com1,1,Economy Class,0.8
+23,com2,2,First_Class,0.15
+23,com2,2,Business Class,0.1
+23,com2,2,Economy Class,0.8
+23,com3,3,First_Class,0.15
+23,com3,3,Business Class,0.1
+23,com3,3,Economy Class,0.8
+23,com4,4,First_Class,0.15
+23,com4,4,Business Class,0.1
+23,com4,4,Economy Class,0.8
+23,com5,5,First_Class,0.15
+23,com5,5,Business Class,0.1
+23,com5,5,Economy Class,0.8
+23,com6,6,First_Class,0.15
+23,com6,6,Business Class,0.1
+23,com6,6,Economy Class,0.8
+23,com7,7,First_Class,0.15
+23,com7,7,Business Class,0.1
+23,com7,7,Economy Class,0.8
+23,com8,8,First_Class,0.15
+23,com8,8,Business Class,0.1
+23,com8,8,Economy Class,0.8
+23,com9,9,First_Class,0.15
+23,com9,9,Business Class,0.1
+23,com9,9,Economy Class,0.8
+23,com10,10,First_Class,0.15
+23,com10,10,Business Class,0.1
+23,com10,10,Economy Class,0.8
+24,com1,1,First_Class,0.15
+24,com1,1,Business Class,0.1
+24,com1,1,Economy Class,0.8
+24,com2,2,First_Class,0.15
+24,com2,2,Business Class,0.1
+24,com2,2,Economy Class,0.8
+24,com3,3,First_Class,0.15
+24,com3,3,Business Class,0.1
+24,com3,3,Economy Class,0.8
+24,com4,4,First_Class,0.15
+24,com4,4,Business Class,0.1
+24,com4,4,Economy Class,0.8
+24,com5,5,First_Class,0.15
+24,com5,5,Business Class,0.1
+24,com5,5,Economy Class,0.8
+24,com6,6,First_Class,0.15
+24,com6,6,Business Class,0.1
+24,com6,6,Economy Class,0.8
+24,com7,7,First_Class,0.15
+24,com7,7,Business Class,0.1
+24,com7,7,Economy Class,0.8
+24,com8,8,First_Class,0.15
+24,com8,8,Business Class,0.1
+24,com8,8,Economy Class,0.8
+24,com9,9,First_Class,0.15
+24,com9,9,Business Class,0.1
+24,com9,9,Economy Class,0.8
+24,com10,10,First_Class,0.15
+24,com10,10,Business Class,0.1
+24,com10,10,Economy Class,0.8
+25,com1,1,First_Class,0.15
+25,com1,1,Business Class,0.1
+25,com1,1,Economy Class,0.8
+25,com2,2,First_Class,0.15
+25,com2,2,Business Class,0.1
+25,com2,2,Economy Class,0.8
+25,com3,3,First_Class,0.15
+25,com3,3,Business Class,0.1
+25,com3,3,Economy Class,0.8
+25,com4,4,First_Class,0.15
+25,com4,4,Business Class,0.1
+25,com4,4,Economy Class,0.8
+25,com5,5,First_Class,0.15
+25,com5,5,Business Class,0.1
+25,com5,5,Economy Class,0.8
+25,com6,6,First_Class,0.15
+25,com6,6,Business Class,0.1
+25,com6,6,Economy Class,0.8
+25,com7,7,First_Class,0.15
+25,com7,7,Business Class,0.1
+25,com7,7,Economy Class,0.8
+25,com8,8,First_Class,0.15
+25,com8,8,Business Class,0.1
+25,com8,8,Economy Class,0.8
+25,com9,9,First_Class,0.15
+25,com9,9,Business Class,0.1
+25,com9,9,Economy Class,0.8
+25,com10,10,First_Class,0.15
+25,com10,10,Business Class,0.1
+25,com10,10,Economy Class,0.8
+26,com1,1,First_Class,0.15
+26,com1,1,Business Class,0.1
+26,com1,1,Economy Class,0.8
+26,com2,2,First_Class,0.15
+26,com2,2,Business Class,0.1
+26,com2,2,Economy Class,0.8
+26,com3,3,First_Class,0.15
+26,com3,3,Business Class,0.1
+26,com3,3,Economy Class,0.8
+26,com4,4,First_Class,0.15
+26,com4,4,Business Class,0.1
+26,com4,4,Economy Class,0.8
+26,com5,5,First_Class,0.15
+26,com5,5,Business Class,0.1
+26,com5,5,Economy Class,0.8
+26,com6,6,First_Class,0.15
+26,com6,6,Business Class,0.1
+26,com6,6,Economy Class,0.8
+26,com7,7,First_Class,0.15
+26,com7,7,Business Class,0.1
+26,com7,7,Economy Class,0.8
+26,com8,8,First_Class,0.15
+26,com8,8,Business Class,0.1
+26,com8,8,Economy Class,0.8
+26,com9,9,First_Class,0.15
+26,com9,9,Business Class,0.1
+26,com9,9,Economy Class,0.8
+26,com10,10,First_Class,0.15
+26,com10,10,Business Class,0.1
+26,com10,10,Economy Class,0.8
+27,com1,1,First_Class,0.15
+27,com1,1,Business Class,0.1
+27,com1,1,Economy Class,0.8
+27,com2,2,First_Class,0.15
+27,com2,2,Business Class,0.1
+27,com2,2,Economy Class,0.8
+27,com3,3,First_Class,0.15
+27,com3,3,Business Class,0.1
+27,com3,3,Economy Class,0.8
+27,com4,4,First_Class,0.15
+27,com4,4,Business Class,0.1
+27,com4,4,Economy Class,0.8
+27,com5,5,First_Class,0.15
+27,com5,5,Business Class,0.1
+27,com5,5,Economy Class,0.8
+27,com6,6,First_Class,0.15
+27,com6,6,Business Class,0.1
+27,com6,6,Economy Class,0.8
+27,com7,7,First_Class,0.15
+27,com7,7,Business Class,0.1
+27,com7,7,Economy Class,0.8
+27,com8,8,First_Class,0.15
+27,com8,8,Business Class,0.1
+27,com8,8,Economy Class,0.8
+27,com9,9,First_Class,0.15
+27,com9,9,Business Class,0.1
+27,com9,9,Economy Class,0.8
+27,com10,10,First_Class,0.15
+27,com10,10,Business Class,0.1
+27,com10,10,Economy Class,0.8
+28,com1,1,First_Class,0.15
+28,com1,1,Business Class,0.1
+28,com1,1,Economy Class,0.8
+28,com2,2,First_Class,0.15
+28,com2,2,Business Class,0.1
+28,com2,2,Economy Class,0.8
+28,com3,3,First_Class,0.15
+28,com3,3,Business Class,0.1
+28,com3,3,Economy Class,0.8
+28,com4,4,First_Class,0.15
+28,com4,4,Business Class,0.1
+28,com4,4,Economy Class,0.8
+28,com5,5,First_Class,0.15
+28,com5,5,Business Class,0.1
+28,com5,5,Economy Class,0.8
+28,com6,6,First_Class,0.15
+28,com6,6,Business Class,0.1
+28,com6,6,Economy Class,0.8
+28,com7,7,First_Class,0.15
+28,com7,7,Business Class,0.1
+28,com7,7,Economy Class,0.8
+28,com8,8,First_Class,0.15
+28,com8,8,Business Class,0.1
+28,com8,8,Economy Class,0.8
+28,com9,9,First_Class,0.15
+28,com9,9,Business Class,0.1
+28,com9,9,Economy Class,0.8
+28,com10,10,First_Class,0.15
+28,com10,10,Business Class,0.1
+28,com10,10,Economy Class,0.8
+29,com1,1,First_Class,0.15
+29,com1,1,Business Class,0.1
+29,com1,1,Economy Class,0.8
+29,com2,2,First_Class,0.15
+29,com2,2,Business Class,0.1
+29,com2,2,Economy Class,0.8
+29,com3,3,First_Class,0.15
+29,com3,3,Business Class,0.1
+29,com3,3,Economy Class,0.8
+29,com4,4,First_Class,0.15
+29,com4,4,Business Class,0.1
+29,com4,4,Economy Class,0.8
+29,com5,5,First_Class,0.15
+29,com5,5,Business Class,0.1
+29,com5,5,Economy Class,0.8
+29,com6,6,First_Class,0.15
+29,com6,6,Business Class,0.1
+29,com6,6,Economy Class,0.8
+29,com7,7,First_Class,0.15
+29,com7,7,Business Class,0.1
+29,com7,7,Economy Class,0.8
+29,com8,8,First_Class,0.15
+29,com8,8,Business Class,0.1
+29,com8,8,Economy Class,0.8
+29,com9,9,First_Class,0.15
+29,com9,9,Business Class,0.1
+29,com9,9,Economy Class,0.8
+29,com10,10,First_Class,0.15
+29,com10,10,Business Class,0.1
+29,com10,10,Economy Class,0.8
+30,com1,1,First_Class,0.15
+30,com1,1,Business Class,0.1
+30,com1,1,Economy Class,0.8
+30,com2,2,First_Class,0.15
+30,com2,2,Business Class,0.1
+30,com2,2,Economy Class,0.8
+30,com3,3,First_Class,0.15
+30,com3,3,Business Class,0.1
+30,com3,3,Economy Class,0.8
+30,com4,4,First_Class,0.15
+30,com4,4,Business Class,0.1
+30,com4,4,Economy Class,0.8
+30,com5,5,First_Class,0.15
+30,com5,5,Business Class,0.1
+30,com5,5,Economy Class,0.8
+30,com6,6,First_Class,0.15
+30,com6,6,Business Class,0.1
+30,com6,6,Economy Class,0.8
+30,com7,7,First_Class,0.15
+30,com7,7,Business Class,0.1
+30,com7,7,Economy Class,0.8
+30,com8,8,First_Class,0.15
+30,com8,8,Business Class,0.1
+30,com8,8,Economy Class,0.8
+30,com9,9,First_Class,0.15
+30,com9,9,Business Class,0.1
+30,com9,9,Economy Class,0.8
+30,com10,10,First_Class,0.15
+30,com10,10,Business Class,0.1
+30,com10,10,Economy Class,0.8
+31,com1,1,First_Class,0.15
+31,com1,1,Business Class,0.1
+31,com1,1,Economy Class,0.8
+31,com2,2,First_Class,0.15
+31,com2,2,Business Class,0.1
+31,com2,2,Economy Class,0.8
+31,com3,3,First_Class,0.15
+31,com3,3,Business Class,0.1
+31,com3,3,Economy Class,0.8
+31,com4,4,First_Class,0.15
+31,com4,4,Business Class,0.1
+31,com4,4,Economy Class,0.8
+31,com5,5,First_Class,0.15
+31,com5,5,Business Class,0.1
+31,com5,5,Economy Class,0.8
+31,com6,6,First_Class,0.15
+31,com6,6,Business Class,0.1
+31,com6,6,Economy Class,0.8
+31,com7,7,First_Class,0.15
+31,com7,7,Business Class,0.1
+31,com7,7,Economy Class,0.8
+31,com8,8,First_Class,0.15
+31,com8,8,Business Class,0.1
+31,com8,8,Economy Class,0.8
+31,com9,9,First_Class,0.15
+31,com9,9,Business Class,0.1
+31,com9,9,Economy Class,0.8
+31,com10,10,First_Class,0.15
+31,com10,10,Business Class,0.1
+31,com10,10,Economy Class,0.8
+32,com1,1,First_Class,0.15
+32,com1,1,Business Class,0.1
+32,com1,1,Economy Class,0.8
+32,com2,2,First_Class,0.15
+32,com2,2,Business Class,0.1
+32,com2,2,Economy Class,0.8
+32,com3,3,First_Class,0.15
+32,com3,3,Business Class,0.1
+32,com3,3,Economy Class,0.8
+32,com4,4,First_Class,0.15
+32,com4,4,Business Class,0.1
+32,com4,4,Economy Class,0.8
+32,com5,5,First_Class,0.15
+32,com5,5,Business Class,0.1
+32,com5,5,Economy Class,0.8
+32,com6,6,First_Class,0.15
+32,com6,6,Business Class,0.1
+32,com6,6,Economy Class,0.8
+32,com7,7,First_Class,0.15
+32,com7,7,Business Class,0.1
+32,com7,7,Economy Class,0.8
+32,com8,8,First_Class,0.15
+32,com8,8,Business Class,0.1
+32,com8,8,Economy Class,0.8
+32,com9,9,First_Class,0.15
+32,com9,9,Business Class,0.1
+32,com9,9,Economy Class,0.8
+32,com10,10,First_Class,0.15
+32,com10,10,Business Class,0.1
+32,com10,10,Economy Class,0.8
+33,com1,1,First_Class,0.15
+33,com1,1,Business Class,0.1
+33,com1,1,Economy Class,0.8
+33,com2,2,First_Class,0.15
+33,com2,2,Business Class,0.1
+33,com2,2,Economy Class,0.8
+33,com3,3,First_Class,0.15
+33,com3,3,Business Class,0.1
+33,com3,3,Economy Class,0.8
+33,com4,4,First_Class,0.15
+33,com4,4,Business Class,0.1
+33,com4,4,Economy Class,0.8
+33,com5,5,First_Class,0.15
+33,com5,5,Business Class,0.1
+33,com5,5,Economy Class,0.8
+33,com6,6,First_Class,0.15
+33,com6,6,Business Class,0.1
+33,com6,6,Economy Class,0.8
+33,com7,7,First_Class,0.15
+33,com7,7,Business Class,0.1
+33,com7,7,Economy Class,0.8
+33,com8,8,First_Class,0.15
+33,com8,8,Business Class,0.1
+33,com8,8,Economy Class,0.8
+33,com9,9,First_Class,0.15
+33,com9,9,Business Class,0.1
+33,com9,9,Economy Class,0.8
+33,com10,10,First_Class,0.15
+33,com10,10,Business Class,0.1
+33,com10,10,Economy Class,0.8
+34,com1,1,First_Class,0.15
+34,com1,1,Business Class,0.1
+34,com1,1,Economy Class,0.8
+34,com2,2,First_Class,0.15
+34,com2,2,Business Class,0.1
+34,com2,2,Economy Class,0.8
+34,com3,3,First_Class,0.15
+34,com3,3,Business Class,0.1
+34,com3,3,Economy Class,0.8
+34,com4,4,First_Class,0.15
+34,com4,4,Business Class,0.1
+34,com4,4,Economy Class,0.8
+34,com5,5,First_Class,0.15
+34,com5,5,Business Class,0.1
+34,com5,5,Economy Class,0.8
+34,com6,6,First_Class,0.15
+34,com6,6,Business Class,0.1
+34,com6,6,Economy Class,0.8
+34,com7,7,First_Class,0.15
+34,com7,7,Business Class,0.1
+34,com7,7,Economy Class,0.8
+34,com8,8,First_Class,0.15
+34,com8,8,Business Class,0.1
+34,com8,8,Economy Class,0.8
+34,com9,9,First_Class,0.15
+34,com9,9,Business Class,0.1
+34,com9,9,Economy Class,0.8
+34,com10,10,First_Class,0.15
+34,com10,10,Business Class,0.1
+34,com10,10,Economy Class,0.8
+35,com1,1,First_Class,0.15
+35,com1,1,Business Class,0.1
+35,com1,1,Economy Class,0.8
+35,com2,2,First_Class,0.15
+35,com2,2,Business Class,0.1
+35,com2,2,Economy Class,0.8
+35,com3,3,First_Class,0.15
+35,com3,3,Business Class,0.1
+35,com3,3,Economy Class,0.8
+35,com4,4,First_Class,0.15
+35,com4,4,Business Class,0.1
+35,com4,4,Economy Class,0.8
+35,com5,5,First_Class,0.15
+35,com5,5,Business Class,0.1
+35,com5,5,Economy Class,0.8
+35,com6,6,First_Class,0.15
+35,com6,6,Business Class,0.1
+35,com6,6,Economy Class,0.8
+35,com7,7,First_Class,0.15
+35,com7,7,Business Class,0.1
+35,com7,7,Economy Class,0.8
+35,com8,8,First_Class,0.15
+35,com8,8,Business Class,0.1
+35,com8,8,Economy Class,0.8
+35,com9,9,First_Class,0.15
+35,com9,9,Business Class,0.1
+35,com9,9,Economy Class,0.8
+35,com10,10,First_Class,0.15
+35,com10,10,Business Class,0.1
+35,com10,10,Economy Class,0.8
+36,com1,1,First_Class,0.15
+36,com1,1,Business Class,0.1
+36,com1,1,Economy Class,0.8
+36,com2,2,First_Class,0.15
+36,com2,2,Business Class,0.1
+36,com2,2,Economy Class,0.8
+36,com3,3,First_Class,0.15
+36,com3,3,Business Class,0.1
+36,com3,3,Economy Class,0.8
+36,com4,4,First_Class,0.15
+36,com4,4,Business Class,0.1
+36,com4,4,Economy Class,0.8
+36,com5,5,First_Class,0.15
+36,com5,5,Business Class,0.1
+36,com5,5,Economy Class,0.8
+36,com6,6,First_Class,0.15
+36,com6,6,Business Class,0.1
+36,com6,6,Economy Class,0.8
+36,com7,7,First_Class,0.15
+36,com7,7,Business Class,0.1
+36,com7,7,Economy Class,0.8
+36,com8,8,First_Class,0.15
+36,com8,8,Business Class,0.1
+36,com8,8,Economy Class,0.8
+36,com9,9,First_Class,0.15
+36,com9,9,Business Class,0.1
+36,com9,9,Economy Class,0.8
+36,com10,10,First_Class,0.15
+36,com10,10,Business Class,0.1
+36,com10,10,Economy Class,0.8
+37,com1,1,First_Class,0.15
+37,com1,1,Business Class,0.1
+37,com1,1,Economy Class,0.8
+37,com2,2,First_Class,0.15
+37,com2,2,Business Class,0.1
+37,com2,2,Economy Class,0.8
+37,com3,3,First_Class,0.15
+37,com3,3,Business Class,0.1
+37,com3,3,Economy Class,0.8
+37,com4,4,First_Class,0.15
+37,com4,4,Business Class,0.1
+37,com4,4,Economy Class,0.8
+37,com5,5,First_Class,0.15
+37,com5,5,Business Class,0.1
+37,com5,5,Economy Class,0.8
+37,com6,6,First_Class,0.15
+37,com6,6,Business Class,0.1
+37,com6,6,Economy Class,0.8
+37,com7,7,First_Class,0.15
+37,com7,7,Business Class,0.1
+37,com7,7,Economy Class,0.8
+37,com8,8,First_Class,0.15
+37,com8,8,Business Class,0.1
+37,com8,8,Economy Class,0.8
+37,com9,9,First_Class,0.15
+37,com9,9,Business Class,0.1
+37,com9,9,Economy Class,0.8
+37,com10,10,First_Class,0.15
+37,com10,10,Business Class,0.1
+37,com10,10,Economy Class,0.8
+38,com1,1,First_Class,0.15
+38,com1,1,Business Class,0.1
+38,com1,1,Economy Class,0.8
+38,com2,2,First_Class,0.15
+38,com2,2,Business Class,0.1
+38,com2,2,Economy Class,0.8
+38,com3,3,First_Class,0.15
+38,com3,3,Business Class,0.1
+38,com3,3,Economy Class,0.8
+38,com4,4,First_Class,0.15
+38,com4,4,Business Class,0.1
+38,com4,4,Economy Class,0.8
+38,com5,5,First_Class,0.15
+38,com5,5,Business Class,0.1
+38,com5,5,Economy Class,0.8
+38,com6,6,First_Class,0.15
+38,com6,6,Business Class,0.1
+38,com6,6,Economy Class,0.8
+38,com7,7,First_Class,0.15
+38,com7,7,Business Class,0.1
+38,com7,7,Economy Class,0.8
+38,com8,8,First_Class,0.15
+38,com8,8,Business Class,0.1
+38,com8,8,Economy Class,0.8
+38,com9,9,First_Class,0.15
+38,com9,9,Business Class,0.1
+38,com9,9,Economy Class,0.8
+38,com10,10,First_Class,0.15
+38,com10,10,Business Class,0.1
+38,com10,10,Economy Class,0.8
+39,com1,1,First_Class,0.15
+39,com1,1,Business Class,0.1
+39,com1,1,Economy Class,0.8
+39,com2,2,First_Class,0.15
+39,com2,2,Business Class,0.1
+39,com2,2,Economy Class,0.8
+39,com3,3,First_Class,0.15
+39,com3,3,Business Class,0.1
+39,com3,3,Economy Class,0.8
+39,com4,4,First_Class,0.15
+39,com4,4,Business Class,0.1
+39,com4,4,Economy Class,0.8
+39,com5,5,First_Class,0.15
+39,com5,5,Business Class,0.1
+39,com5,5,Economy Class,0.8
+39,com6,6,First_Class,0.15
+39,com6,6,Business Class,0.1
+39,com6,6,Economy Class,0.8
+39,com7,7,First_Class,0.15
+39,com7,7,Business Class,0.1
+39,com7,7,Economy Class,0.8
+39,com8,8,First_Class,0.15
+39,com8,8,Business Class,0.1
+39,com8,8,Economy Class,0.8
+39,com9,9,First_Class,0.15
+39,com9,9,Business Class,0.1
+39,com9,9,Economy Class,0.8
+39,com10,10,First_Class,0.15
+39,com10,10,Business Class,0.1
+39,com10,10,Economy Class,0.8
+40,com1,1,First_Class,0.15
+40,com1,1,Business Class,0.1
+40,com1,1,Economy Class,0.8
+40,com2,2,First_Class,0.15
+40,com2,2,Business Class,0.1
+40,com2,2,Economy Class,0.8
+40,com3,3,First_Class,0.15
+40,com3,3,Business Class,0.1
+40,com3,3,Economy Class,0.8
+40,com4,4,First_Class,0.15
+40,com4,4,Business Class,0.1
+40,com4,4,Economy Class,0.8
+40,com5,5,First_Class,0.15
+40,com5,5,Business Class,0.1
+40,com5,5,Economy Class,0.8
+40,com6,6,First_Class,0.15
+40,com6,6,Business Class,0.1
+40,com6,6,Economy Class,0.8
+40,com7,7,First_Class,0.15
+40,com7,7,Business Class,0.1
+40,com7,7,Economy Class,0.8
+40,com8,8,First_Class,0.15
+40,com8,8,Business Class,0.1
+40,com8,8,Economy Class,0.8
+40,com9,9,First_Class,0.15
+40,com9,9,Business Class,0.1
+40,com9,9,Economy Class,0.8
+40,com10,10,First_Class,0.15
+40,com10,10,Business Class,0.1
+40,com10,10,Economy Class,0.8
